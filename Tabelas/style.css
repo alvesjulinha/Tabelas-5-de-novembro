@@ -1,0 +1,15 @@
+table, th, td, caption{
+    border: 2px solid aqua;
+    border-collapse: collapse;text-align: center;
+    padding: 10px;
+}
+
+th{
+    background-color: rgb(168, 243, 218);
+}
+
+caption{
+    font-size: 25px;
+    font-weight: bold;
+    background-color: aquamarine;
+}
